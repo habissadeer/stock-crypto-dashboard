@@ -6,9 +6,11 @@ charset-normalizer==3.4.3
 curl_cffi==0.13.0
 Django==5.2.6
 frozendict==2.4.6
+gunicorn==23.0.0
 idna==3.10
 multitasking==0.0.12
 numpy==2.3.3
+packaging==25.0
 pandas==2.3.3
 peewee==3.18.2
 platformdirs==4.4.0
