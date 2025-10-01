@@ -21,3 +21,5 @@ A dynamic Django web application designed to track and visualize stock and crypt
    ```bash
    git clone https://github.com/your-username/stock-crypto-dashboard.git
    cd stock-crypto-dashboard
+live-demo
+ https://stock-crypto-dashboard-0zl4.onrender.com
